@@ -68,21 +68,9 @@ Finley: "You spent $847 on food this month:
 ## Screenshots
 
 <p align="center">
-  <img src="images/chat-interface.png" alt="Chat Interface" width="800"/>
+  <img src="images/demo-mode.png" alt="Finance Advisor Dashboard" width="800"/>
   <br>
-  <em>Chat Interface - Ask natural language questions about your finances</em>
-</p>
-
-<p align="center">
-  <img src="images/spending-charts.png" alt="Spending Analytics" width="800"/>
-  <br>
-  <em>Spending Analytics - Visual breakdown by category</em>
-</p>
-
-<p align="center">
-  <img src="images/demo-mode.png" alt="Demo Mode" width="800"/>
-  <br>
-  <em>Demo Mode - Try with sample data</em>
+  <em>Dashboard - Spending analytics with interactive charts</em>
 </p>
 
 ---
@@ -191,7 +179,7 @@ Visual breakdown of your spending by category with interactive charts.
 <br><sub>Vector DB</sub>
 </td>
 <td align="center" width="120">
-<img src="https://cdn.worldvectorlogo.com/logos/groq-seeklogo.svg" width="48" height="48" alt="Groq" />
+<img src="https://groq.com/wp-content/uploads/2024/03/PBG-mark1-color.svg" width="48" height="48" alt="Groq" />
 <br><strong>Groq</strong>
 <br><sub>LLM Inference</sub>
 </td>
@@ -231,9 +219,7 @@ Visual breakdown of your spending by category with interactive charts.
 │   └── user_profile.json      # User settings & file tracking
 │
 ├── 📁 images/                 # Screenshots for README
-│   ├── chat-interface.png     # Chat UI screenshot
-│   ├── spending-charts.png    # Analytics charts
-│   └── demo-mode.png          # Demo mode screenshot
+│   └── demo-mode.png          # Dashboard screenshot
 │
 ├── .env.example               # Environment template
 ├── requirements.txt           # Python dependencies
