@@ -1,0 +1,72 @@
+{
+  "categories": {
+    "income": {
+      "keywords": ["direct deposit", "payroll", "salary", "venmo payment received", "zelle received", "interest payment"],
+      "icon": "💰"
+    },
+    "housing": {
+      "keywords": ["rent", "mortgage", "hoa", "property"],
+      "icon": "🏠"
+    },
+    "utilities": {
+      "keywords": ["electric", "gas company", "water", "internet", "comcast", "at&t", "verizon", "t-mobile"],
+      "icon": "💡"
+    },
+    "groceries": {
+      "keywords": ["walmart grocery", "kroger", "safeway", "whole foods", "trader joes", "costco", "target", "aldi", "publix"],
+      "icon": "🛒"
+    },
+    "dining": {
+      "keywords": ["restaurant", "chipotle", "mcdonald", "starbucks", "dunkin", "subway", "cheesecake factory", "olive garden", "chili's"],
+      "icon": "🍽️"
+    },
+    "food_delivery": {
+      "keywords": ["doordash", "uber eats", "grubhub", "postmates", "seamless"],
+      "icon": "🚗🍔"
+    },
+    "transportation": {
+      "keywords": ["uber trip", "lyft", "taxi", "gas station", "shell", "chevron", "exxon", "bp", "parking"],
+      "icon": "🚗"
+    },
+    "subscriptions": {
+      "keywords": ["netflix", "spotify", "hbo", "disney+", "hulu", "amazon prime", "apple.com/bill", "audible", "youtube premium"],
+      "icon": "📺"
+    },
+    "shopping": {
+      "keywords": ["amazon", "target", "walmart", "best buy", "nordstrom", "zara", "h&m", "nike", "apple store"],
+      "icon": "🛍️"
+    },
+    "health": {
+      "keywords": ["pharmacy", "cvs", "walgreens", "doctor", "hospital", "dental", "gym", "fitness"],
+      "icon": "🏥"
+    },
+    "insurance": {
+      "keywords": ["insurance", "geico", "state farm", "allstate", "progressive"],
+      "icon": "🛡️"
+    },
+    "debt_payments": {
+      "keywords": ["student loan", "credit card payment", "car payment", "loan payment"],
+      "icon": "💳"
+    },
+    "savings": {
+      "keywords": ["savings transfer", "investment", "401k", "ira"],
+      "icon": "🐷"
+    },
+    "pets": {
+      "keywords": ["petco", "petsmart", "vet", "veterinary"],
+      "icon": "🐕"
+    },
+    "home": {
+      "keywords": ["home depot", "lowes", "ikea", "bed bath"],
+      "icon": "🔧"
+    },
+    "personal": {
+      "keywords": ["venmo", "zelle", "cash app", "paypal"],
+      "icon": "👤"
+    },
+    "other": {
+      "keywords": [],
+      "icon": "📦"
+    }
+  }
+}

@@ -1,0 +1,54 @@
+# ============================================
+# Project 1: Personal Finance Advisor Agent
+# ============================================
+
+# -----------------
+# LLM - Groq (Fast & Cheap)
+# -----------------
+groq>=0.4.0
+
+# -----------------
+# LlamaIndex - RAG Framework
+# -----------------
+llama-index>=0.10.0
+llama-index-llms-groq>=0.1.0
+llama-index-embeddings-huggingface>=0.1.0
+llama-index-vector-stores-qdrant>=0.1.0
+
+# -----------------
+# Vector Database - Qdrant
+# -----------------
+qdrant-client>=1.7.0
+
+# -----------------
+# PDF Processing
+# -----------------
+pymupdf>=1.23.0          # Fast PDF text extraction
+pdfplumber>=0.10.0       # Table extraction from PDFs
+
+# -----------------
+# Data Processing
+# -----------------
+pandas>=2.0.0
+numpy>=1.24.0
+
+# -----------------
+# Web UI
+# -----------------
+streamlit>=1.31.0
+
+# -----------------
+# Utilities
+# -----------------
+python-dotenv>=1.0.0     # Environment variables
+pydantic>=2.5.0          # Data validation
+
+# -----------------
+# Visualization
+# -----------------
+plotly>=5.18.0           # Interactive charts
+
+# -----------------
+# Embeddings (local, free)
+# -----------------
+sentence-transformers>=2.2.0
