@@ -65,6 +65,28 @@ Finley: "You spent $847 on food this month:
 
 ---
 
+## Screenshots
+
+<p align="center">
+  <img src="images/chat-interface.png" alt="Chat Interface" width="800"/>
+  <br>
+  <em>Chat Interface - Ask natural language questions about your finances</em>
+</p>
+
+<p align="center">
+  <img src="images/spending-charts.png" alt="Spending Analytics" width="800"/>
+  <br>
+  <em>Spending Analytics - Visual breakdown by category</em>
+</p>
+
+<p align="center">
+  <img src="images/demo-mode.png" alt="Demo Mode" width="800"/>
+  <br>
+  <em>Demo Mode - Try with sample data</em>
+</p>
+
+---
+
 ## Demo
 
 ### Chat Interface
@@ -208,9 +230,10 @@ Visual breakdown of your spending by category with interactive charts.
 │   ├── sample_transactions.csv # Demo transaction data
 │   └── user_profile.json      # User settings & file tracking
 │
-├── 📁 docs/                   # Documentation
-├── 📁 tests/                  # Unit tests
-├── 📁 scripts/                # Utility scripts
+├── 📁 images/                 # Screenshots for README
+│   ├── chat-interface.png     # Chat UI screenshot
+│   ├── spending-charts.png    # Analytics charts
+│   └── demo-mode.png          # Demo mode screenshot
 │
 ├── .env.example               # Environment template
 ├── requirements.txt           # Python dependencies
