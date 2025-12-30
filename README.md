@@ -177,7 +177,7 @@ Visual breakdown of your spending by category with interactive charts.
 <br><sub>Vector DB</sub>
 </td>
 <td align="center" width="120">
-<img src="https://groq.com/wp-content/uploads/2024/03/PBG-mark1-color.svg" width="48" height="48" alt="Groq" />
+
 <br><strong>Groq</strong>
 <br><sub>LLM Inference</sub>
 </td>
