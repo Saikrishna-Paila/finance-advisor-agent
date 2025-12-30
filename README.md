@@ -65,7 +65,7 @@ Finley: "You spent $847 on food this month:
 
 ---
 
-## Screenshots
+## Dashboard
 
 <p align="center">
   <img src="images/demo-mode.png" alt="Finance Advisor Dashboard" width="800"/>
@@ -74,8 +74,6 @@ Finley: "You spent $847 on food this month:
 </p>
 
 ---
-
-## Demo
 
 ### Chat Interface
 Ask natural questions and get intelligent, personalized responses:
