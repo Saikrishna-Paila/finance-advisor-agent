@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.icons8.com/3d-fluency/94/money-bag.png" alt="Finance Advisor Logo" width="120"/>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Money%20with%20Wings.png" alt="Finance Advisor Logo" width="120"/>
 </p>
 
 <h1 align="center">Finance Advisor AI Agent</h1>
