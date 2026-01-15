@@ -50,11 +50,11 @@
 <br /><b>LlamaIndex</b>
 </td>
 <td align="center" width="100">
-<img src="https://cdn.simpleicons.org/qdrant/24B47E" width="48" height="48" alt="Qdrant" />
+<img src="https://qdrant.tech/img/brand-resources-logos/logomark.svg" width="48" height="48" alt="Qdrant" />
 <br /><b>Qdrant</b>
 </td>
 <td align="center" width="100">
-<img src="https://cdn.simpleicons.org/groq/F55036" width="48" height="48" alt="Groq" />
+<img src="https://www.svgrepo.com/show/306500/openai.svg" width="48" height="48" alt="Groq" />
 <br /><b>Groq</b>
 </td>
 </tr>
@@ -184,36 +184,6 @@ Visual breakdown of your spending by category with interactive charts.
 ---
 
 ## Tech Stack
-
-<table>
-<tr>
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
-<br><strong>Python</strong>
-<br><sub>3.9+</sub>
-</td>
-<td align="center" width="120">
-<img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="48" height="48" alt="Streamlit" />
-<br><strong>Streamlit</strong>
-<br><sub>UI Framework</sub>
-</td>
-<td align="center" width="120">
-<img src="https://avatars.githubusercontent.com/u/130722866?s=200&v=4" width="48" height="48" alt="LlamaIndex" />
-<br><strong>LlamaIndex</strong>
-<br><sub>RAG Framework</sub>
-</td>
-<td align="center" width="120">
-<img src="https://qdrant.tech/images/logo_with_text.png" width="48" height="48" alt="Qdrant" />
-<br><strong>Qdrant</strong>
-<br><sub>Vector DB</sub>
-</td>
-<td align="center" width="120">
-
-<br><strong>Groq</strong>
-<br><sub>LLM Inference</sub>
-</td>
-</tr>
-</table>
 
 | Component | Technology | Purpose |
 |-----------|------------|---------|
