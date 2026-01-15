@@ -31,6 +31,37 @@
   <img src="https://img.shields.io/badge/Project-1%20of%2012-blue.svg?style=flat-square" alt="Project 1"/>
 </p>
 
+<div align="center">
+
+### 🛠️ Built With
+
+<table>
+<tr>
+<td align="center" width="100">
+<img src="https://cdn.simpleicons.org/python/3776AB" width="48" height="48" alt="Python" />
+<br /><b>Python</b>
+</td>
+<td align="center" width="100">
+<img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="48" height="48" alt="Streamlit" />
+<br /><b>Streamlit</b>
+</td>
+<td align="center" width="100">
+<img src="https://avatars.githubusercontent.com/u/130722866?s=200&v=4" width="48" height="48" alt="LlamaIndex" />
+<br /><b>LlamaIndex</b>
+</td>
+<td align="center" width="100">
+<img src="https://cdn.simpleicons.org/qdrant/24B47E" width="48" height="48" alt="Qdrant" />
+<br /><b>Qdrant</b>
+</td>
+<td align="center" width="100">
+<img src="https://cdn.simpleicons.org/groq/F55036" width="48" height="48" alt="Groq" />
+<br /><b>Groq</b>
+</td>
+</tr>
+</table>
+
+</div>
+
 ---
 
 ## Overview
