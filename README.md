@@ -38,11 +38,11 @@
 <table>
 <tr>
 <td align="center" width="100">
-<img src="https://cdn.simpleicons.org/python/3776AB" width="48" height="48" alt="Python" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
 <br /><b>Python</b>
 </td>
 <td align="center" width="100">
-<img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="48" height="48" alt="Streamlit" />
+<img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="48" height="48" alt="Streamlit" />
 <br /><b>Streamlit</b>
 </td>
 <td align="center" width="100">
@@ -50,11 +50,11 @@
 <br /><b>LlamaIndex</b>
 </td>
 <td align="center" width="100">
-<img src="https://qdrant.tech/img/brand-resources-logos/logomark.svg" width="48" height="48" alt="Qdrant" />
+<img src="https://avatars.githubusercontent.com/u/73504361?s=200&v=4" width="48" height="48" alt="Qdrant" />
 <br /><b>Qdrant</b>
 </td>
 <td align="center" width="100">
-<img src="https://www.svgrepo.com/show/306500/openai.svg" width="48" height="48" alt="Groq" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Groq_logo.svg" width="48" height="48" alt="Groq" />
 <br /><b>Groq</b>
 </td>
 </tr>
