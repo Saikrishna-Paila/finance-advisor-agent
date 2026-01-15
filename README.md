@@ -54,7 +54,7 @@
 <br /><b>Qdrant</b>
 </td>
 <td align="center" width="100">
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Groq_logo.svg" width="48" height="48" alt="Groq" />
+<img src="https://raw.githubusercontent.com/groq/groq-api-cookbook/main/images/groq-logo.png" width="48" height="48" alt="Groq" />
 <br /><b>Groq</b>
 </td>
 </tr>
